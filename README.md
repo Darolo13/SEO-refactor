@@ -1,2 +1,1 @@
-# SEO-refactor
-Bootcamp project to refactor HTML, CSS and Git 
+# Code Refactor Starter Code
