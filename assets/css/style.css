@@ -54,11 +54,12 @@ p {
     font-size: 16px;
 }
 
+/* Removed digital-marketing-meeting.jpg for semantics */
 .hero {
     height: 800px;
     width: 100%;
-    margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
+    margin-bottom: 25px; 
+  /*  background-image: url("../images/digital-marketing-meeting.jpg"); */
     background-size: cover;
     background-position: center;
 }
