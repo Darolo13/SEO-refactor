@@ -91,7 +91,8 @@ This code is the responsible for the creation of the navbar and navigating fast 
         </p>
     </footer>
     
-    
+ ## Challenge Reflection
+ This challenge gave in depth knowledge of accessibility practices and posibilities, as websites are evolving at high speeds to satisfy the needs of users especially as we are able to include those with disabilities in the IoT, this at same time as improving the code and making it easier to maintain.
   
     
     
